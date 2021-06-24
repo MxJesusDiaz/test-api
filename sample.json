@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "title": "Aliens",
+        "director": "James Diaz",
+        "year": "1998",
+        "rating": "8.5"
+    },
+
+    {
+        "id": 2,
+        "title": "Juancho el Oso Juancho",
+        "director": "Wineeh Puh",
+        "year": "2008",
+        "rating": "9.5"
+    },
+
+    {
+        "id": 3,
+        "title": "Elizabeth and the Mystical Apple",
+        "director": "Jesus Diaz",
+        "year": "2017",
+        "rating": "10"
+    },
+
+    {
+        "id": 5,
+        "title": "El renacimiento de los caidos",
+        "director": "Tulio Marco Costa",
+        "year": "2021",
+        "rating": "9.2"
+    }
+]
